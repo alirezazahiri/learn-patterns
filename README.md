@@ -5,3 +5,4 @@
 - [Singleton Pattern](./singleton-pattern/README.md)
 - [Proxy Pattern](./proxy-pattern/README.md)
 - [Provider Pattern](./provider-pattern/README.md)
+- [Prototype Pattern](./prototype-pattern/README.md)
