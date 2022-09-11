@@ -172,5 +172,7 @@ Testing presentational components is easy, as they are usually pure functions.
 We know what the components will render based on which data we pass,
 without having to mock a data store.
 
+## Disadvantages 
+
 Although we can still use the Container/Presentational pattern, even with
 React Hooks, this pattern can easily be an overkill in smaller sized application.
