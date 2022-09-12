@@ -10,3 +10,4 @@
 - [Container Presentational Pattern](./container-presentational-pattern/README.md)
 - [Observer Pattern](./observer-pattern/README.md)
 - [Module Pattern](./module-pattern/README.md)
+- [Mixin Pattern](./mixin-pattern/README.md)
