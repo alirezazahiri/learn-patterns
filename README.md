@@ -11,3 +11,4 @@
 - [Observer Pattern](./observer-pattern/README.md)
 - [Module Pattern](./module-pattern/README.md)
 - [Mixin Pattern](./mixin-pattern/README.md)
+- [Mediator/Middleware Pattern](./mediator-middleware-pattern/README.md)
