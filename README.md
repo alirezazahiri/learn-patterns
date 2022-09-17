@@ -12,3 +12,4 @@
 - [Module Pattern](./module-pattern/README.md)
 - [Mixin Pattern](./mixin-pattern/README.md)
 - [Mediator/Middleware Pattern](./mediator-middleware-pattern/README.md)
+- [Flyweight Pattern](./flyweight-pattern/README.md)
