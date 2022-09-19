@@ -13,4 +13,5 @@
 - [Mixin Pattern](./mixin-pattern/README.md)
 - [Mediator/Middleware Pattern](./mediator-middleware-pattern/README.md)
 - [Flyweight Pattern](./flyweight-pattern/README.md)
-- [factory-pattern](./factory-pattern/README.md)
+- [Factory Pattern](./factory-pattern/README.md)
+- [Compound Pattern](./compound-pattern/README.md)
