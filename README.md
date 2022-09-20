@@ -15,3 +15,4 @@
 - [Flyweight Pattern](./flyweight-pattern/README.md)
 - [Factory Pattern](./factory-pattern/README.md)
 - [Compound Pattern](./compound-pattern/README.md)
+- [Command Pattern](./command-pattern/README.md)
